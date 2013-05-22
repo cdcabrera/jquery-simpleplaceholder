@@ -38,7 +38,7 @@
 
 <p>
     The plugin shouldn't interfere with browsers that actually support the
-    attribute, such as Firefox, Chrome, and Opera. All hail the demise of IE < 9.
+    attribute, such as Firefox, Chrome, and Opera. All hail the demise of IE &lt; 9.
 </p>
 
 <h2>Requirements</h2>
